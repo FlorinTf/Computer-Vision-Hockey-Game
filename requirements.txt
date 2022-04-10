@@ -1,4 +1,4 @@
 pygame==2.1.2
-numpy==2.21.5
+numpy==1.21.5
 cvzone==1.5.4
 opencv-contrib-python==4.5.5.62
