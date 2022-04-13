@@ -1,5 +1,6 @@
 # Computer-Vision-Hockey-Game
 This is a hockey game based on Computer Vision in Python. I used pygame and opencv.
+![Alt Text](https://github.com/FlorinTf/Computer-Vision-Hockey-Game/blob/main/Hockey%20Game%20-%20Computer%20Vision%20Python%20Hand%20Detection.gif)
 
 You can see a video with this game on my youtube channel - <a href="https://www.youtube.com/watch?v=pTZIJVGCDSs" target="_blank">My Hockey Game</a></p>&nbsp;</div><br /><p></p>
 ![Computer Vision Hockey Game Python Pygame](https://user-images.githubusercontent.com/96166795/156922427-8d4e7c93-0c5f-4274-91cb-0e16a7246a01.jpg)
